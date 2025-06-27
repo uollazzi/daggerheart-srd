@@ -1,4 +1,11 @@
-﻿# GIANT RAT
+﻿---
+tier: 1
+type: Minion
+difficulty: 10
+hp: 1
+stress: 1
+---
+# GIANT RAT
 
 ***Tier 1 Minion***  
 *A cat-sized rodent skilled at scavenging and survival.*  

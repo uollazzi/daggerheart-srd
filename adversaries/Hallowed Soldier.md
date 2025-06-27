@@ -1,4 +1,11 @@
-﻿# HALLOWED SOLDIER
+﻿---
+tier: 4
+type: Minion
+difficulty: 18
+hp: 1
+stress: 2
+---
+# HALLOWED SOLDIER
 
 ***Tier 4 Minion***  
 *Souls of the faithful, lifted up with divine weaponry.*  

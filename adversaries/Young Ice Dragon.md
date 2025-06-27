@@ -1,4 +1,11 @@
-﻿# YOUNG ICE DRAGON
+﻿---
+tier: 3
+type: Solo
+difficulty: 18
+hp: 10
+stress: 6
+---
+# YOUNG ICE DRAGON
 
 ***Tier 3 Solo***  
 *A glacier-blue dragon with four powerful limbs and frost-tinged wings.*  

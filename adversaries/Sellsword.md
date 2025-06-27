@@ -1,4 +1,11 @@
-﻿# SELLSWORD
+﻿---
+tier: 1
+type: Minion
+difficulty: 10
+hp: 1
+stress: 1
+---
+# SELLSWORD
 
 ***Tier 1 Minion***  
 *An armed mercenary testing their luck.*  

@@ -1,4 +1,11 @@
-﻿# MINOR FIRE ELEMENTAL
+﻿---
+tier: 1
+type: Solo
+difficulty: 13
+hp: 9
+stress: 3
+---
+# MINOR FIRE ELEMENTAL
 
 ***Tier 1 Solo***  
 *A living flame the size of a large bonfire.*  

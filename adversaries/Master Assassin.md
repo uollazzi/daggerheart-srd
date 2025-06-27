@@ -1,4 +1,11 @@
-﻿# MASTER ASSASSIN
+﻿---
+tier: 2
+type: Leader
+difficulty: 15
+hp: 7
+stress: 5
+---
+# MASTER ASSASSIN
 
 ***Tier 2 Leader***  
 *A seasoned killer with a threatening voice and a deadly blade.*  

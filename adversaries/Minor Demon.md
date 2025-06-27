@@ -1,4 +1,11 @@
-﻿# MINOR DEMON
+﻿---
+tier: 1
+type: Solo
+difficulty: 14
+hp: 8
+stress: 4
+---
+# MINOR DEMON
 
 ***Tier 1 Solo***  
 *A crimson-hued creature from the Circles Below, consumed by rage against all mortals.*  

@@ -1,3 +1,10 @@
+---
+tier: {{tier}}
+type: {{type}}
+difficulty: {{difficulty}}
+hp: {{hp}}
+stress: {{stress}}
+---
 # {{ name|upper }}
 
 ***Tier {{ tier }} {{ type }}***  

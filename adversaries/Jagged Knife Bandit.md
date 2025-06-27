@@ -1,4 +1,11 @@
-﻿# JAGGED KNIFE BANDIT
+﻿---
+tier: 1
+type: Standard
+difficulty: 12
+hp: 5
+stress: 3
+---
+# JAGGED KNIFE BANDIT
 
 ***Tier 1 Standard***  
 *A cunning criminal in a cloak bearing one of the gang’s iconic knives.*  

@@ -1,4 +1,11 @@
-﻿# FAILED EXPERIMENT
+﻿---
+tier: 2
+type: Standard
+difficulty: 13
+hp: 3
+stress: 3
+---
+# FAILED EXPERIMENT
 
 ***Tier 2 Standard***  
 *A magical necromantic experiment gone wrong, leaving them warped and ungainly.*  

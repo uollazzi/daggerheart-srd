@@ -1,4 +1,11 @@
-﻿# DEEPROOT DEFENDER
+﻿---
+tier: 1
+type: Bruiser
+difficulty: 10
+hp: 7
+stress: 3
+---
+# DEEPROOT DEFENDER
 
 ***Tier 1 Bruiser***  
 *A burly vegetable-person with grasping vines.*  

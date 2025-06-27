@@ -1,4 +1,11 @@
-﻿# VOLCANIC DRAGON: OBSIDIAN PREDATOR
+﻿---
+tier: 4
+type: Solo
+difficulty: 19
+hp: 6
+stress: 5
+---
+# VOLCANIC DRAGON: OBSIDIAN PREDATOR
 
 ***Tier 4 Solo***  
 *A massive winged creature with obsidian scales and impossibly sharp claws.*  

@@ -1,4 +1,11 @@
-﻿# GREATER WATER ELEMENTAL
+﻿---
+tier: 3
+type: Support
+difficulty: 17
+hp: 5
+stress: 5
+---
+# GREATER WATER ELEMENTAL
 
 ***Tier 3 Support***  
 *A huge living wave that crashes down upon enemies.*  

@@ -1,4 +1,11 @@
-﻿# SWARM OF RATS
+﻿---
+tier: 1
+type: Horde (10/HP)
+difficulty: 10
+hp: 6
+stress: 2
+---
+# SWARM OF RATS
 
 ***Tier 1 Horde (10/HP)***  
 *A skittering mass of ordinary rodents moving as one like a ravenous wave.*  

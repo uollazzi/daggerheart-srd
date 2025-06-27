@@ -1,4 +1,11 @@
-﻿# JUVENILE FLICKERFLY
+﻿---
+tier: 2
+type: Solo
+difficulty: 14
+hp: 10
+stress: 5
+---
+# JUVENILE FLICKERFLY
 
 ***Tier 2 Solo***  
 *A horse-sized insect with iridescent scales and crystalline wings moving faster than the eye can see.*  

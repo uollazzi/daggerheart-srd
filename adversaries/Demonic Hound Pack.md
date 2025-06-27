@@ -1,4 +1,11 @@
-﻿# DEMONIC HOUND PACK
+﻿---
+tier: 2
+type: Horde (1/HP)
+difficulty: 15
+hp: 6
+stress: 3
+---
+# DEMONIC HOUND PACK
 
 ***Tier 2 Horde (1/HP)***  
 *Unnatural hounds lit from within by hellfire.*  

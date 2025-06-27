@@ -1,4 +1,11 @@
-﻿# JAGGED KNIFE KNEEBREAKER
+﻿---
+tier: 1
+type: Bruiser
+difficulty: 12
+hp: 7
+stress: 4
+---
+# JAGGED KNIFE KNEEBREAKER
 
 ***Tier 1 Bruiser***  
 *An imposing brawler carrying a large club.*  

@@ -1,4 +1,11 @@
-﻿# MINOR TREANT
+﻿---
+tier: 1
+type: Minion
+difficulty: 10
+hp: 1
+stress: 1
+---
+# MINOR TREANT
 
 ***Tier 1 Minion***  
 *An ambulatory sapling rising up to defend their forest.*  

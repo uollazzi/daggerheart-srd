@@ -1,4 +1,11 @@
-﻿# GREEN OOZE
+﻿---
+tier: 1
+type: Skulk
+difficulty: 8
+hp: 5
+stress: 2
+---
+# GREEN OOZE
 
 ***Tier 1 Skulk***  
 *A moving mound of translucent green slime.*  

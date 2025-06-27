@@ -1,4 +1,11 @@
-﻿# ARCHER GUARD
+﻿---
+tier: 1
+type: Ranged
+difficulty: 10
+hp: 3
+stress: 2
+---
+# ARCHER GUARD
 
 ***Tier 1 Ranged***  
 *A tall guard bearing a longbow and quiver with arrows fletched in the settlement’s colors.*  

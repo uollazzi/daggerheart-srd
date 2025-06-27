@@ -1,4 +1,11 @@
-﻿# HALLOWED ARCHER
+﻿---
+tier: 4
+type: Ranged
+difficulty: 19
+hp: 3
+stress: 2
+---
+# HALLOWED ARCHER
 
 ***Tier 4 Ranged***  
 *Spirit soldiers with sanctified bows.*  

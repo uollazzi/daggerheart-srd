@@ -1,4 +1,11 @@
-﻿# PIRATE CAPTAIN
+﻿---
+tier: 1
+type: Leader
+difficulty: 14
+hp: 7
+stress: 5
+---
+# PIRATE CAPTAIN
 
 ***Tier 1 Leader***  
 *A charismatic sea dog with an impressive hat, eager to raid and plunder.*  

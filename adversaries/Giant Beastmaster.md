@@ -1,4 +1,11 @@
-﻿# GIANT BEASTMASTER
+﻿---
+tier: 2
+type: Leader
+difficulty: 16
+hp: 6
+stress: 5
+---
+# GIANT BEASTMASTER
 
 ***Tier 2 Leader***  
 *A leather-clad warrior bearing a whip and massive bow.*  

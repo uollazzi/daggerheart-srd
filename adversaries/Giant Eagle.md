@@ -1,4 +1,11 @@
-﻿# GIANT EAGLE
+﻿---
+tier: 2
+type: Skulk
+difficulty: 14
+hp: 4
+stress: 4
+---
+# GIANT EAGLE
 
 ***Tier 2 Skulk***  
 *A giant bird of prey with blood-stained talons.*  

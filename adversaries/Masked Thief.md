@@ -1,4 +1,11 @@
-﻿# MASKED THIEF
+﻿---
+tier: 2
+type: Skulk
+difficulty: 14
+hp: 4
+stress: 5
+---
+# MASKED THIEF
 
 ***Tier 2 Skulk***  
 *A cunning thief with acrobatic skill and a flair for the dramatic.*  

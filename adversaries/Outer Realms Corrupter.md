@@ -1,4 +1,11 @@
-﻿# OUTER REALMS CORRUPTER
+﻿---
+tier: 4
+type: Support
+difficulty: 19
+hp: 4
+stress: 3
+---
+# OUTER REALMS CORRUPTER
 
 ***Tier 4 Support***  
 *A shifting, formless mass seemingly made of chromatic light.*  

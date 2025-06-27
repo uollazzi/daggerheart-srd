@@ -1,4 +1,11 @@
-﻿# VOLCANIC DRAGON: ASHEN TYRANT
+﻿---
+tier: 4
+type: Solo
+difficulty: 18
+hp: 8
+stress: 5
+---
+# VOLCANIC DRAGON: ASHEN TYRANT
 
 ***Tier 4 Solo***  
 *A legendary, lava-hardened dragon. No enemy has ever had the insolence to wound the dragon so.*  

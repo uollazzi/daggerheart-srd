@@ -64,6 +64,18 @@ def process_json_to_md(json_file, template_file, output_dir, feature_count=7):
                 print(outpath)
 
 
+def copy_to_vault(path: str):
+    sub_dirs = [
+        entry
+        for entry in os.scandir("../")
+        if entry.is_dir() and not entry.name.startswith(".")
+    ]
+    for dir in sub_dirs:
+        dest = os.path.join(path, dir.name)
+        clear_output_dir(dest)
+        shutil.copytree(dir.path, dest, dirs_exist_ok=True)
+
+
 if __name__ == "__main__":
     jobs = find_matching_jobs()
     for json_file, template_file, table in jobs:
@@ -74,3 +86,6 @@ if __name__ == "__main__":
         link_name = f"docs/{table}"
         output_dir = f"../{output_dir}"
         ensure_symlink(output_dir, link_name)
+        copy_to_vault(
+            "C:\\Users\\dillo\\Il mio Drive\\GdR\\Daggerheart\\Daggerheart Vault\\SRD"
+        )

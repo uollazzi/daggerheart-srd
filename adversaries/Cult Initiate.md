@@ -1,4 +1,11 @@
-﻿# CULT INITIATE
+﻿---
+tier: 2
+type: Minion
+difficulty: 13
+hp: 1
+stress: 1
+---
+# CULT INITIATE
 
 ***Tier 2 Minion***  
 *A low-ranking cultist in simple robes, eager to gain power.*  

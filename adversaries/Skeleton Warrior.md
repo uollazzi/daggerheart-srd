@@ -1,4 +1,11 @@
-﻿# SKELETON WARRIOR
+﻿---
+tier: 1
+type: Standard
+difficulty: 10
+hp: 3
+stress: 2
+---
+# SKELETON WARRIOR
 
 ***Tier 1 Standard***  
 *A dirt-covered skeleton armed with a rusted blade.*  

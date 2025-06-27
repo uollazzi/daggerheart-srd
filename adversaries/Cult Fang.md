@@ -1,4 +1,11 @@
-﻿# CULT FANG
+﻿---
+tier: 2
+type: Skulk
+difficulty: 15
+hp: 4
+stress: 4
+---
+# CULT FANG
 
 ***Tier 2 Skulk***  
 *A professional killer-turned-cultist.*  

@@ -1,4 +1,11 @@
-﻿# GREATER EARTH ELEMENTAL
+﻿---
+tier: 3
+type: Bruiser
+difficulty: 17
+hp: 10
+stress: 4
+---
+# GREATER EARTH ELEMENTAL
 
 ***Tier 3 Bruiser***  
 *A living landslide of boulders and dust, as large as a house.*  

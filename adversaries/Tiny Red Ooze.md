@@ -1,4 +1,11 @@
-﻿# TINY RED OOZE
+﻿---
+tier: 1
+type: Skulk
+difficulty: 11
+hp: 2
+stress: 1
+---
+# TINY RED OOZE
 
 ***Tier 1 Skulk***  
 *A small moving mound of translucent flaming red slime.*  

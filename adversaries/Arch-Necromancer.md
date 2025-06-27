@@ -1,4 +1,11 @@
-﻿# ARCH-NECROMANCER
+﻿---
+tier: 4
+type: Leader
+difficulty: 21
+hp: 9
+stress: 8
+---
+# ARCH-NECROMANCER
 
 ***Tier 4 Leader***  
 *A decaying mage adorned in dark, tattered robes.*  

@@ -1,4 +1,11 @@
-﻿# KRAKEN
+﻿---
+tier: 4
+type: Solo
+difficulty: 20
+hp: 11
+stress: 8
+---
+# KRAKEN
 
 ***Tier 4 Solo***  
 *A legendary beast of the sea, bigger than the largest galleon, with sucker-laden tentacles and a terrifying maw.*  

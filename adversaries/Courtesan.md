@@ -1,4 +1,11 @@
-﻿# COURTESAN
+﻿---
+tier: 2
+type: Social
+difficulty: 13
+hp: 3
+stress: 4
+---
+# COURTESAN
 
 ***Tier 2 Social***  
 *An accomplished manipulator and master of the social arts.*  

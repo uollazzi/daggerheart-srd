@@ -1,4 +1,11 @@
-﻿# HARRIER
+﻿---
+tier: 1
+type: Standard
+difficulty: 12
+hp: 3
+stress: 3
+---
+# HARRIER
 
 ***Tier 1 Standard***  
 *A nimble fighter armed with javelins.*  

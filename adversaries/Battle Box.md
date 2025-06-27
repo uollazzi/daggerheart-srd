@@ -1,4 +1,11 @@
-﻿# BATTLE BOX
+﻿---
+tier: 2
+type: Solo
+difficulty: 15
+hp: 8
+stress: 6
+---
+# BATTLE BOX
 
 ***Tier 2 Solo***  
 *A cube-shaped construct with a different rune on each of their six sides.*  

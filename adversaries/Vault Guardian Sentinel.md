@@ -1,4 +1,11 @@
-﻿# VAULT GUARDIAN SENTINEL
+﻿---
+tier: 3
+type: Bruiser
+difficulty: 17
+hp: 6
+stress: 3
+---
+# VAULT GUARDIAN SENTINEL
 
 ***Tier 3 Bruiser***  
 *A dust-covered golden construct with boxy limbs and a huge mace for a hand.*  

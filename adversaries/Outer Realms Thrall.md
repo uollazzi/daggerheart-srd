@@ -1,4 +1,11 @@
-﻿# OUTER REALMS THRALL
+﻿---
+tier: 4
+type: Minion
+difficulty: 17
+hp: 1
+stress: 1
+---
+# OUTER REALMS THRALL
 
 ***Tier 4 Minion***  
 *A vaguely humanoid form stripped of memory and identity.*  

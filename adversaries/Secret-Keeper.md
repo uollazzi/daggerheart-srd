@@ -1,4 +1,11 @@
-﻿# SECRET-KEEPER
+﻿---
+tier: 2
+type: Leader
+difficulty: 16
+hp: 7
+stress: 4
+---
+# SECRET-KEEPER
 
 ***Tier 2 Leader***  
 *A clandestine leader with a direct channel to the Fallen Gods.*  

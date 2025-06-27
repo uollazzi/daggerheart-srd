@@ -1,4 +1,11 @@
-﻿# JAGGED KNIFE SNIPER
+﻿---
+tier: 1
+type: Ranged
+difficulty: 13
+hp: 3
+stress: 2
+---
+# JAGGED KNIFE SNIPER
 
 ***Tier 1 Ranged***  
 *A lanky bandit striking from cover with a shortbow.*  

@@ -1,4 +1,11 @@
-﻿# SKELETON DREDGE
+﻿---
+tier: 1
+type: Minion
+difficulty: 8
+hp: 1
+stress: 1
+---
+# SKELETON DREDGE
 
 ***Tier 1 Minion***  
 *A clattering pile of bones.*  

@@ -1,4 +1,11 @@
-﻿# BEAR
+﻿---
+tier: 1
+type: Bruiser
+difficulty: 14
+hp: 7
+stress: 2
+---
+# BEAR
 
 ***Tier 1 Bruiser***  
 *A large bear with thick fur and powerful claws.*  

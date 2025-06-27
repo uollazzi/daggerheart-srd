@@ -1,4 +1,11 @@
-﻿# DEMON OF DESPAIR
+﻿---
+tier: 3
+type: Skulk
+difficulty: 17
+hp: 6
+stress: 5
+---
+# DEMON OF DESPAIR
 
 ***Tier 3 Skulk***  
 *A cloaked one-creature with long limbs, seeping shadows.*  

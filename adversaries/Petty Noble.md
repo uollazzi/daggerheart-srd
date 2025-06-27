@@ -1,4 +1,11 @@
-﻿# PETTY NOBLE
+﻿---
+tier: 1
+type: Social
+difficulty: 14
+hp: 3
+stress: 5
+---
+# PETTY NOBLE
 
 ***Tier 1 Social***  
 *A richly dressed and adorned aristocrat brimming with hubris.*  

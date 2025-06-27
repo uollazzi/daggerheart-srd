@@ -1,4 +1,11 @@
-﻿# ZOMBIE LEGION
+﻿---
+tier: 4
+type: Horde (3/HP)
+difficulty: 17
+hp: 8
+stress: 5
+---
+# ZOMBIE LEGION
 
 ***Tier 4 Horde (3/HP)***  
 *A large pack of undead, still powerful despite their rotting flesh.*  

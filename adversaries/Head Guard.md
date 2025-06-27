@@ -1,4 +1,11 @@
-﻿# HEAD GUARD
+﻿---
+tier: 1
+type: Leader
+difficulty: 15
+hp: 7
+stress: 3
+---
+# HEAD GUARD
 
 ***Tier 1 Leader***  
 *A seasoned guard with a mace, a whistle, and a bellowing voice.*  

@@ -1,4 +1,11 @@
-﻿# ROYAL ADVISOR
+﻿---
+tier: 2
+type: Social
+difficulty: 14
+hp: 3
+stress: 3
+---
+# ROYAL ADVISOR
 
 ***Tier 2 Social***  
 *A high-ranking courtier with the ear of the local nobility.*  

@@ -1,4 +1,11 @@
-﻿# CONSTRUCT
+﻿---
+tier: 1
+type: Solo
+difficulty: 13
+hp: 9
+stress: 4
+---
+# CONSTRUCT
 
 ***Tier 1 Solo***  
 *A roughly humanoid being of stone and steel, assembled and animated by magic.*  

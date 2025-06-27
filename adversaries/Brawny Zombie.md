@@ -1,4 +1,11 @@
-﻿# BRAWNY ZOMBIE
+﻿---
+tier: 1
+type: Bruiser
+difficulty: 10
+hp: 7
+stress: 4
+---
+# BRAWNY ZOMBIE
 
 ***Tier 1 Bruiser***  
 *A large corpse, decay-bloated and angry.*  

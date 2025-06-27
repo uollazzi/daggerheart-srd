@@ -1,4 +1,11 @@
-﻿# DEMON OF JEALOUSY
+﻿---
+tier: 3
+type: Ranged
+difficulty: 17
+hp: 6
+stress: 6
+---
+# DEMON OF JEALOUSY
 
 ***Tier 3 Ranged***  
 *A fickle creature of spindly limbs and insatiable desires.*  

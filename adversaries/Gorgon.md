@@ -1,4 +1,11 @@
-﻿# GORGON
+﻿---
+tier: 2
+type: Solo
+difficulty: 15
+hp: 9
+stress: 3
+---
+# GORGON
 
 ***Tier 2 Solo***  
 *A snake-headed, scaled humanoid with a gilded bow, enraged that their peace has been disturbed.*  

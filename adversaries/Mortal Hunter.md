@@ -1,4 +1,11 @@
-﻿# MORTAL HUNTER
+﻿---
+tier: 2
+type: Leader
+difficulty: 16
+hp: 6
+stress: 4
+---
+# MORTAL HUNTER
 
 ***Tier 2 Leader***  
 *An undead figure wearing a heavy leather coat, with searching eyes and a cruelly cut demeanor.*  

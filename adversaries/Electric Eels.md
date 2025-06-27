@@ -1,4 +1,11 @@
-﻿# ELECTRIC EELS
+﻿---
+tier: 2
+type: Horde (2/HP)
+difficulty: 14
+hp: 5
+stress: 3
+---
+# ELECTRIC EELS
 
 ***Tier 2 Horde (2/HP)***  
 *A swarm of eels that encircle and electrocute.*  

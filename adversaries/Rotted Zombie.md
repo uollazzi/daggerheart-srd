@@ -1,4 +1,11 @@
-﻿# ROTTED ZOMBIE
+﻿---
+tier: 1
+type: Minion
+difficulty: 8
+hp: 1
+stress: 1
+---
+# ROTTED ZOMBIE
 
 ***Tier 1 Minion***  
 *A decaying corpse ambling toward their prey.*  

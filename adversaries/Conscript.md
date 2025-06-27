@@ -1,4 +1,11 @@
-﻿# CONSCRIPT
+﻿---
+tier: 2
+type: Minion
+difficulty: 12
+hp: 1
+stress: 1
+---
+# CONSCRIPT
 
 ***Tier 2 Minion***  
 *A poorly trained civilian pressed into war.*  

@@ -1,4 +1,11 @@
-﻿# TREANT SAPLING
+﻿---
+tier: 3
+type: Minion
+difficulty: 14
+hp: 1
+stress: 1
+---
+# TREANT SAPLING
 
 ***Tier 3 Minion***  
 *A small, sentient tree sapling.*  

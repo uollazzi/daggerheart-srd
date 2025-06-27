@@ -1,4 +1,11 @@
-﻿# PIRATE RAIDERS
+﻿---
+tier: 1
+type: Horde (3/HP)
+difficulty: 12
+hp: 4
+stress: 3
+---
+# PIRATE RAIDERS
 
 ***Tier 1 Horde (3/HP)***  
 *Seafaring scoundrels moving in a ravaging pack.*  

@@ -1,4 +1,11 @@
-﻿# HIGH SERAPH
+﻿---
+tier: 4
+type: Leader
+difficulty: 20
+hp: 7
+stress: 5
+---
+# HIGH SERAPH
 
 ***Tier 4 Leader***  
 *A divine champion, head of a hallowed host of warriors who enforce their god’s will.*  

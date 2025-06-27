@@ -1,4 +1,11 @@
-﻿# TANGLE BRAMBLE
+﻿---
+tier: 1
+type: Minion
+difficulty: 11
+hp: 1
+stress: 1
+---
+# TANGLE BRAMBLE
 
 ***Tier 1 Minion***  
 *An animate, blood-drinking tumbleweed.*  

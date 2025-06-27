@@ -1,4 +1,11 @@
-﻿# ASSASSIN POISONER
+﻿---
+tier: 2
+type: Skulk
+difficulty: 14
+hp: 4
+stress: 4
+---
+# ASSASSIN POISONER
 
 ***Tier 2 Skulk***  
 *A cunning scoundrel skilled in both poisons and ambushing.*  

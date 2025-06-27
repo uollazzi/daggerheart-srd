@@ -1,4 +1,11 @@
-﻿# MINOTAUR WRECKER
+﻿---
+tier: 2
+type: Bruiser
+difficulty: 16
+hp: 7
+stress: 5
+---
+# MINOTAUR WRECKER
 
 ***Tier 2 Bruiser***  
 *A massive bull-headed hybrid with a quick temper.*  

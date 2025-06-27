@@ -1,4 +1,11 @@
-﻿# PERFECTED ZOMBIE
+﻿---
+tier: 4
+type: Bruiser
+difficulty: 20
+hp: 9
+stress: 4
+---
+# PERFECTED ZOMBIE
 
 ***Tier 4 Bruiser***  
 *A towering, muscular zombie with magically infused strength and skill.*  

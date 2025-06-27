@@ -1,4 +1,11 @@
-﻿# JAGGED KNIFE HEXER
+﻿---
+tier: 1
+type: Support
+difficulty: 13
+hp: 4
+stress: 4
+---
+# JAGGED KNIFE HEXER
 
 ***Tier 1 Support***  
 *A staff-wielding bandit in a cloak adorned with magical paraphernalia, using curses to vex their foes.*  

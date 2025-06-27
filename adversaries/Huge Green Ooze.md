@@ -1,4 +1,11 @@
-﻿# HUGE GREEN OOZE
+﻿---
+tier: 3
+type: Skulk
+difficulty: 15
+hp: 7
+stress: 4
+---
+# HUGE GREEN OOZE
 
 ***Tier 3 Skulk***  
 *A translucent green mound of acid taller than most humans.*  

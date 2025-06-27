@@ -1,4 +1,11 @@
-﻿# SPELLBLADE
+﻿---
+tier: 1
+type: Leader
+difficulty: 14
+hp: 6
+stress: 3
+---
+# SPELLBLADE
 
 ***Tier 1 Leader***  
 *A mercenary combining swordplay and magic to deadly effect.*  

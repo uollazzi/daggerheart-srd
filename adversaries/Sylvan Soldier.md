@@ -1,4 +1,11 @@
-﻿# SYLVAN SOLDIER
+﻿---
+tier: 1
+type: Standard
+difficulty: 11
+hp: 4
+stress: 2
+---
+# SYLVAN SOLDIER
 
 ***Tier 1 Standard***  
 *A faerie warrior adorned in armor made of leaves and bark.*  

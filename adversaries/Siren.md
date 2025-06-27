@@ -1,4 +1,11 @@
-﻿# SIREN
+﻿---
+tier: 2
+type: Skulk
+difficulty: 14
+hp: 5
+stress: 3
+---
+# SIREN
 
 ***Tier 2 Skulk***  
 *A half fish person with shimmering scales and an irresistible voice.*  

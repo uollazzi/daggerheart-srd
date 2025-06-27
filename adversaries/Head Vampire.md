@@ -1,4 +1,11 @@
-﻿# HEAD VAMPIRE
+﻿---
+tier: 3
+type: Leader
+difficulty: 17
+hp: 6
+stress: 6
+---
+# HEAD VAMPIRE
 
 ***Tier 3 Leader***  
 *A captivating undead dressed in aristocratic finery.*  

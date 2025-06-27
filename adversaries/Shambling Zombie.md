@@ -1,4 +1,11 @@
-﻿# SHAMBLING ZOMBIE
+﻿---
+tier: 1
+type: Standard
+difficulty: 10
+hp: 4
+stress: 1
+---
+# SHAMBLING ZOMBIE
 
 ***Tier 1 Standard***  
 *An animated corpse that moves shakily, driven only by hunger.*  

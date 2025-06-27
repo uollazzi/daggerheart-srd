@@ -1,4 +1,11 @@
-﻿# MONARCH
+﻿---
+tier: 3
+type: Social
+difficulty: 16
+hp: 6
+stress: 5
+---
+# MONARCH
 
 ***Tier 3 Social***  
 *The sovereign ruler of a nation, unearthed in the privilege of tradition and wielding unmatched power in their domain.*  

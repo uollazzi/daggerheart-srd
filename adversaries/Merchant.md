@@ -1,4 +1,11 @@
-﻿# MERCHANT
+﻿---
+tier: 1
+type: Social
+difficulty: 12
+hp: 3
+stress: 3
+---
+# MERCHANT
 
 ***Tier 1 Social***  
 *A finely dressed trader with a keen eye for financial gain.*  

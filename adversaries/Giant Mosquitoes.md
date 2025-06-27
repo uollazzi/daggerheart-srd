@@ -1,4 +1,11 @@
-﻿# GIANT MOSQUITOES
+﻿---
+tier: 1
+type: Horde (5/HP)
+difficulty: 10
+hp: 6
+stress: 3
+---
+# GIANT MOSQUITOES
 
 ***Tier 1 Horde (5/HP)***  
 *Dozens of fist-sized mosquitoes, flying together for protection.*  

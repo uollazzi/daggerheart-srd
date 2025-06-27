@@ -1,4 +1,11 @@
-﻿# ARCHER SQUADRON
+﻿---
+tier: 2
+type: Horde (2/HP)
+difficulty: 13
+hp: 4
+stress: 3
+---
+# ARCHER SQUADRON
 
 ***Tier 2 Horde (2/HP)***  
 *A group of trained archers bearing massive bows.*  

@@ -1,4 +1,11 @@
-﻿# DEMON OF AVARICE
+﻿---
+tier: 3
+type: Support
+difficulty: 17
+hp: 6
+stress: 5
+---
+# DEMON OF AVARICE
 
 ***Tier 3 Support***  
 *A regal cloaked monstrosity with circular horns adorned with treasure.*  

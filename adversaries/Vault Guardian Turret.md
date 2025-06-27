@@ -1,4 +1,11 @@
-﻿# VAULT GUARDIAN TURRET
+﻿---
+tier: 3
+type: Ranged
+difficulty: 16
+hp: 5
+stress: 4
+---
+# VAULT GUARDIAN TURRET
 
 ***Tier 3 Ranged***  
 *A massive hulking turret with reinforced armor and twelve piston-driven mechanical legs.*  

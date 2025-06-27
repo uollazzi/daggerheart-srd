@@ -1,4 +1,11 @@
-﻿# ELITE SOLDIER
+﻿---
+tier: 2
+type: Standard
+difficulty: 15
+hp: 4
+stress: 3
+---
+# ELITE SOLDIER
 
 ***Tier 2 Standard***  
 *An armored squire or experienced commoner looking to advance.*  

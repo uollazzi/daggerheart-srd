@@ -1,4 +1,11 @@
-﻿# ELEMENTAL SPARK
+﻿---
+tier: 3
+type: Minion
+difficulty: 15
+hp: 1
+stress: 1
+---
+# ELEMENTAL SPARK
 
 ***Tier 3 Minion***  
 *A blazing mote of elemental fire.*  

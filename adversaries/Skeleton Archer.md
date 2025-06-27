@@ -1,4 +1,11 @@
-﻿# SKELETON ARCHER
+﻿---
+tier: 1
+type: Ranged
+difficulty: 9
+hp: 3
+stress: 2
+---
+# SKELETON ARCHER
 
 ***Tier 1 Ranged***  
 *A fragile skeleton with a shortbow and arrows.*  

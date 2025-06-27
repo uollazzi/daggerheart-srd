@@ -1,4 +1,11 @@
-﻿# CULT ADEPT
+﻿---
+tier: 2
+type: Support
+difficulty: 14
+hp: 4
+stress: 6
+---
+# CULT ADEPT
 
 ***Tier 2 Support***  
 *An experienced mage wielding shadow and fear.*  

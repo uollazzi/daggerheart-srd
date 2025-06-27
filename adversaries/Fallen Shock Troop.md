@@ -1,4 +1,11 @@
-﻿# FALLEN SHOCK TROOP
+﻿---
+tier: 4
+type: Minion
+difficulty: 18
+hp: 1
+stress: 1
+---
+# FALLEN SHOCK TROOP
 
 ***Tier 4 Minion***  
 *A cursed soul bound to the Fallen’s will.*  

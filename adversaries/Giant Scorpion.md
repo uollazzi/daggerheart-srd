@@ -1,4 +1,11 @@
-﻿# GIANT SCORPION
+﻿---
+tier: 1
+type: Bruiser
+difficulty: 13
+hp: 6
+stress: 3
+---
+# GIANT SCORPION
 
 ***Tier 1 Bruiser***  
 *A human-sized insect with tearing claws and a stinging tail.*  

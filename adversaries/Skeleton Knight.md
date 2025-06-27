@@ -1,4 +1,11 @@
-﻿# SKELETON KNIGHT
+﻿---
+tier: 1
+type: Bruiser
+difficulty: 13
+hp: 5
+stress: 2
+---
+# SKELETON KNIGHT
 
 ***Tier 1 Bruiser***  
 *A large armored skeleton with a huge blade.*  

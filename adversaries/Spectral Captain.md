@@ -1,4 +1,11 @@
-﻿# SPECTRAL CAPTAIN
+﻿---
+tier: 2
+type: Leader
+difficulty: 16
+hp: 6
+stress: 4
+---
+# SPECTRAL CAPTAIN
 
 ***Tier 2 Leader***  
 *A ghostly commander leading their troops beyond death.*  

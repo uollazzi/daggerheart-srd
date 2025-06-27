@@ -1,4 +1,11 @@
-﻿# GIANT BRAWLER
+﻿---
+tier: 2
+type: Bruiser
+difficulty: 15
+hp: 7
+stress: 4
+---
+# GIANT BRAWLER
 
 ***Tier 2 Bruiser***  
 *An especially muscular giant wielding a warhammer larger than a human.*  

@@ -1,4 +1,11 @@
-﻿# VAULT GUARDIAN GAOLER
+﻿---
+tier: 3
+type: Support
+difficulty: 16
+hp: 5
+stress: 3
+---
+# VAULT GUARDIAN GAOLER
 
 ***Tier 3 Support***  
 *A boxy, dust-covered construct with thick metallic swinging doors on their torso.*  

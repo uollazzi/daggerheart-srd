@@ -1,4 +1,11 @@
-﻿# OUTER REALMS ABOMINATION
+﻿---
+tier: 4
+type: Bruiser
+difficulty: 19
+hp: 7
+stress: 5
+---
+# OUTER REALMS ABOMINATION
 
 ***Tier 4 Bruiser***  
 *A chaotic mockery of life, constantly in flux.*  

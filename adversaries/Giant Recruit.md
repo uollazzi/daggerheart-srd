@@ -1,4 +1,11 @@
-﻿# GIANT RECRUIT
+﻿---
+tier: 2
+type: Minion
+difficulty: 13
+hp: 1
+stress: 2
+---
+# GIANT RECRUIT
 
 ***Tier 2 Minion***  
 *A giant fighter undergoing borrowed armor.*  

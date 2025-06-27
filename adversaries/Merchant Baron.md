@@ -1,4 +1,11 @@
-﻿# MERCHANT BARON
+﻿---
+tier: 2
+type: Social
+difficulty: 15
+hp: 5
+stress: 3
+---
+# MERCHANT BARON
 
 ***Tier 2 Social***  
 *An accomplished merchant with a large operation under their command.*  

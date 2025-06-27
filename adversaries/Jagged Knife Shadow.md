@@ -1,4 +1,11 @@
-﻿# JAGGED KNIFE SHADOW
+﻿---
+tier: 1
+type: Skulk
+difficulty: 12
+hp: 3
+stress: 3
+---
+# JAGGED KNIFE SHADOW
 
 ***Tier 1 Skulk***  
 *A nimble scoundrel bearing a wicked knife and utilizing shadow magic to isolate targets.*  

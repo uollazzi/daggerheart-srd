@@ -1,4 +1,11 @@
-﻿# RED OOZE
+﻿---
+tier: 1
+type: Skulk
+difficulty: 10
+hp: 5
+stress: 3
+---
+# RED OOZE
 
 ***Tier 1 Skulk***  
 *A moving mound of translucent flaming red slime.*  

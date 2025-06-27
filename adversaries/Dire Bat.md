@@ -1,4 +1,11 @@
-﻿# DIRE BAT
+﻿---
+tier: 3
+type: Skulk
+difficulty: 14
+hp: 5
+stress: 3
+---
+# DIRE BAT
 
 ***Tier 3 Skulk***  
 *A winged pet endlessly loyal to their vampire owner.*  

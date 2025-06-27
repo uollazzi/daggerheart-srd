@@ -1,4 +1,11 @@
-﻿# ADULT FLICKERFLY
+﻿---
+tier: 3
+type: Solo
+difficulty: 17
+hp: 12
+stress: 6
+---
+# ADULT FLICKERFLY
 
 ***Tier 3 Solo***  
 *A winged insect the size of a large house with iridescent scales and wings that move too fast to track.*  

@@ -1,4 +1,11 @@
-﻿# STONEWRAITH
+﻿---
+tier: 2
+type: Skulk
+difficulty: 13
+hp: 6
+stress: 3
+---
+# STONEWRAITH
 
 ***Tier 2 Skulk***  
 *A prowling hunter, like a slinking mountain lion, with a slate-gray stone body.*  

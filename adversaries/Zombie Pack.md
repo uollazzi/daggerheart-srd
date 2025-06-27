@@ -1,4 +1,11 @@
-﻿# ZOMBIE PACK
+﻿---
+tier: 1
+type: Horde (2/HP)
+difficulty: 8
+hp: 6
+stress: 3
+---
+# ZOMBIE PACK
 
 ***Tier 1 Horde (2/HP)***  
 *A group of shambling corpses instinctively moving together.*  

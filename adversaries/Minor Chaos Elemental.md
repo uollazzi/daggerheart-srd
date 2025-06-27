@@ -1,4 +1,11 @@
-﻿# MINOR CHAOS ELEMENTAL
+﻿---
+tier: 1
+type: Solo
+difficulty: 14
+hp: 7
+stress: 3
+---
+# MINOR CHAOS ELEMENTAL
 
 ***Tier 1 Solo***  
 *A coruscating mass of uncontrollable magic.*  

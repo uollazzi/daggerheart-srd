@@ -1,4 +1,11 @@
-﻿# YOUNG DRYAD
+﻿---
+tier: 1
+type: Leader
+difficulty: 11
+hp: 6
+stress: 2
+---
+# YOUNG DRYAD
 
 ***Tier 1 Leader***  
 *An imperious tree-person leading their forest’s defenses.*  

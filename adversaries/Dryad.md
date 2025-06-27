@@ -1,4 +1,11 @@
-﻿# DRYAD
+﻿---
+tier: 3
+type: Leader
+difficulty: 16
+hp: 8
+stress: 5
+---
+# DRYAD
 
 ***Tier 3 Leader***  
 *A nature spirit in the form of a humanoid tree.*  

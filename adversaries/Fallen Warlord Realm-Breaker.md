@@ -1,4 +1,11 @@
-﻿# FALLEN WARLORD: REALM-BREAKER
+﻿---
+tier: 4
+type: Solo
+difficulty: 20
+hp: 8
+stress: 5
+---
+# FALLEN WARLORD: REALM-BREAKER
 
 ***Tier 4 Solo***  
 *A fallen God, wreathed in rage and resentment, bearing millennia of experience in breaking heroes’ spirits.*  

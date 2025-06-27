@@ -1,4 +1,11 @@
-﻿# VOLCANIC DRAGON: MOLTEN SCOURGE
+﻿---
+tier: 4
+type: Solo
+difficulty: 20
+hp: 7
+stress: 5
+---
+# VOLCANIC DRAGON: MOLTEN SCOURGE
 
 ***Tier 4 Solo***  
 *Engaged by their wounds, the dragon bursts into molten lava.*  

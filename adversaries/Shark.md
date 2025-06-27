@@ -1,4 +1,11 @@
-﻿# SHARK
+﻿---
+tier: 2
+type: Bruiser
+difficulty: 14
+hp: 7
+stress: 3
+---
+# SHARK
 
 ***Tier 2 Bruiser***  
 *A large aquatic predator, always on the move.*  

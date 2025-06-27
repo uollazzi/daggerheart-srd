@@ -1,4 +1,11 @@
-﻿# TANGLE BRAMBLE SWARM
+﻿---
+tier: 1
+type: Horde (3/HP)
+difficulty: 12
+hp: 6
+stress: 3
+---
+# TANGLE BRAMBLE SWARM
 
 ***Tier 1 Horde (3/HP)***  
 *A cluster of animated, blood-drinking tumbleweeds, each the size of a large gourd.*  

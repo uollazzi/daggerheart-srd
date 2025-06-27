@@ -1,4 +1,11 @@
-﻿# PATCHWORK ZOMBIE HULK
+﻿---
+tier: 1
+type: Solo
+difficulty: 13
+hp: 10
+stress: 3
+---
+# PATCHWORK ZOMBIE HULK
 
 ***Tier 1 Solo***  
 *A towering gestalt of corpses moving as one, with torso-sized limbs and fists as large as a grown halfling.*  

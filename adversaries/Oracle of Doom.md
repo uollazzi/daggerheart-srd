@@ -1,4 +1,11 @@
-﻿# ORACLE OF DOOM
+﻿---
+tier: 4
+type: Solo
+difficulty: 20
+hp: 11
+stress: 10
+---
+# ORACLE OF DOOM
 
 ***Tier 4 Solo***  
 *A towering immortal and incarnation of fate, cursed to only see bad outcomes.*  

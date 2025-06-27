@@ -1,4 +1,11 @@
-﻿# ACID BURROWER
+﻿---
+tier: 1
+type: Solo
+difficulty: 14
+hp: 8
+stress: 3
+---
+# ACID BURROWER
 
 ***Tier 1 Solo***  
 *A horse-sized insect with digging claws and acidic blood.*  

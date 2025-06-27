@@ -1,4 +1,11 @@
-﻿# PIRATE TOUGH
+﻿---
+tier: 1
+type: Bruiser
+difficulty: 13
+hp: 5
+stress: 3
+---
+# PIRATE TOUGH
 
 ***Tier 1 Bruiser***  
 *A thickly muscled and tattooed pirate with melon-sized fists.*  

@@ -1,4 +1,11 @@
-﻿# CHAOS SKULL
+﻿---
+tier: 2
+type: Ranged
+difficulty: 15
+hp: 5
+stress: 4
+---
+# CHAOS SKULL
 
 ***Tier 2 Ranged***  
 *A floating humanoid skull animated by scintillating magic.*  

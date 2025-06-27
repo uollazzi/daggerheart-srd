@@ -1,4 +1,11 @@
-﻿# VAMPIRE
+﻿---
+tier: 3
+type: Standard
+difficulty: 16
+hp: 5
+stress: 4
+---
+# VAMPIRE
 
 ***Tier 3 Standard***  
 *An intelligent undead with blood-stained lips and a predator’s smile.*  

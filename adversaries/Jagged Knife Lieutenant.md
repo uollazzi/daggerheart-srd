@@ -1,4 +1,11 @@
-﻿# JAGGED KNIFE LIEUTENANT
+﻿---
+tier: 1
+type: Leader
+difficulty: 13
+hp: 6
+stress: 3
+---
+# JAGGED KNIFE LIEUTENANT
 
 ***Tier 1 Leader***  
 *A seasoned bandit in quality leathers with a strong voice and cunning eyes.*  

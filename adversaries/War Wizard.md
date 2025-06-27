@@ -1,4 +1,11 @@
-﻿# WAR WIZARD
+﻿---
+tier: 2
+type: Ranged
+difficulty: 16
+hp: 5
+stress: 6
+---
+# WAR WIZARD
 
 ***Tier 2 Ranged***  
 *A battle-hardened mage trained in destructive magic.*  

@@ -1,4 +1,11 @@
-﻿# TINY GREEN OOZE
+﻿---
+tier: 1
+type: Skulk
+difficulty: 14
+hp: 2
+stress: 1
+---
+# TINY GREEN OOZE
 
 ***Tier 1 Skulk***  
 *A small moving mound of translucent green slime.*  

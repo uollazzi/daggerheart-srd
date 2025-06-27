@@ -1,4 +1,11 @@
-﻿# COURTIER
+﻿---
+tier: 1
+type: Social
+difficulty: 12
+hp: 3
+stress: 4
+---
+# COURTIER
 
 ***Tier 1 Social***  
 *An ambitious and ostentatiously dressed socialite.*  

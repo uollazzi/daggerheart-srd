@@ -1,4 +1,11 @@
-﻿# HYDRA
+﻿---
+tier: 3
+type: Solo
+difficulty: 18
+hp: 10
+stress: 5
+---
+# HYDRA
 
 ***Tier 3 Solo***  
 *A quadrupedal scaled beast with multiple long-necked heads, each filled with menacing fangs.*  

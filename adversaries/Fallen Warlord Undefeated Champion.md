@@ -1,4 +1,11 @@
-﻿# FALLEN WARLORD: UNDEFEATED CHAMPION
+﻿---
+tier: 4
+type: Solo
+difficulty: 18
+hp: 11
+stress: 5
+---
+# FALLEN WARLORD: UNDEFEATED CHAMPION
 
 ***Tier 4 Solo***  
 *That which only the most feared have a chance to fear.*  

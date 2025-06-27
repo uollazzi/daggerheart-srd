@@ -1,4 +1,11 @@
-﻿# KNIGHT OF THE REALM
+﻿---
+tier: 2
+type: Leader
+difficulty: 15
+hp: 6
+stress: 4
+---
+# KNIGHT OF THE REALM
 
 ***Tier 2 Leader***  
 *A decorated soldier with heavy armor and a powerful steed.*  

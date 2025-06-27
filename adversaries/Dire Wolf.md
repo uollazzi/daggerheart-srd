@@ -1,4 +1,11 @@
-﻿# DIRE WOLF
+﻿---
+tier: 1
+type: Skulk
+difficulty: 12
+hp: 4
+stress: 3
+---
+# DIRE WOLF
 
 ***Tier 1 Skulk***  
 *A large wolf with menacing teeth, seldom encountered alone.*  
